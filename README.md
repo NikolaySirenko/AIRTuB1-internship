@@ -12,4 +12,6 @@ When it's ready you will see a "Jupyter Server is running" message in the termin
 
 Go to [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
 
+Create a folder named scanData in the project folder. You can put scan files in it.
+
 Enjoy!
