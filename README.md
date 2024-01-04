@@ -3,8 +3,10 @@ Repository for a AIRTuB 1 follow-up internship
 
 ## 🚀 Usage
 
-Make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed. 
-Launch it. Open Terminal in the project folder and run:
+1. Make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed. 
+2. Launch it. 
+3. Clone this repository.
+4. Open Terminal in the project folder and run:
 ```sh
 docker-compose up --build
 ```
@@ -15,9 +17,9 @@ When it's ready you will see a "Jupyter Server is running" message in the termin
 <img width="854" alt="image" src="https://github.com/NikolaySirenko/AIRTuB1-internship/assets/43823270/cb9ab295-5784-40ef-a5a0-09a2b8b727cc">
 
 
-Go to [http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume](http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume)
+5. Go to [http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume](http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume)
 
-Create a folder named __scanData__ in the project folder. You can put scan files in it.
+6. Create a folder named __scanData__ in the project folder. You can put scan files in it.
 
 ## ✨ Misc
 
