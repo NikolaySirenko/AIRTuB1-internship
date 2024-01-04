@@ -17,7 +17,7 @@ Create a folder named scanData in the project folder. You can put scan files in 
 
 ## 💻 Misc
 
-If you want, you can use [VS Code](https://code.visualstudio.com/) as developing evironment. 
+If you want, you can use [VS Code](https://code.visualstudio.com/) as developing environment. 
 You will need these extensions for it:
 - Jupyter: [link](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - Dev Containers: [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
