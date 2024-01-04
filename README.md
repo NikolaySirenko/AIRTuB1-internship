@@ -13,7 +13,7 @@ When it's ready you will see a "Jupyter Server is running" message in the termin
 
 Go to [http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume](http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume)
 
-Create a folder named scanData in the project folder. You can put scan files in it.
+Create a folder named __scanData__ in the project folder. You can put scan files in it.
 
 ## 💻 Misc
 
@@ -23,6 +23,6 @@ You will need these extensions for it:
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 When the Docker container is running go to the VS Code Command Palette by pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
-Select _Dev Containers: Attach to Running Container..._ and choose _AIRTuB1-internship_.
+Select __Dev Containers: Attach to Running Container...__ and choose __AIRTuB1-internship__.
 
 Enjoy!
