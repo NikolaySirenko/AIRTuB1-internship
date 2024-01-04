@@ -23,6 +23,7 @@ You will need these extensions for it:
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 When the Docker container is running go to the VS Code Command Palette by pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
+
 Select __Dev Containers: Attach to Running Container...__ and choose __AIRTuB1-internship__.
 
 Enjoy!
