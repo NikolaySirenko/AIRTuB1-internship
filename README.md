@@ -11,7 +11,9 @@ docker-compose up --build
 Running this for the first time may take some time to download all dependencies. 
 When it's ready you will see a "Jupyter Server is running" message in the terminal.
 
+
 <img width="854" alt="image" src="https://github.com/NikolaySirenko/AIRTuB1-internship/assets/43823270/cb9ab295-5784-40ef-a5a0-09a2b8b727cc">
+
 
 Go to [http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume](http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume)
 
