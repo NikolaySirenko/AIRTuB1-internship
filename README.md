@@ -15,7 +15,7 @@ Go to [http://127.0.0.1:8888/lab/workspaces/auto-7/tree/volume](http://127.0.0.1
 
 Create a folder named __scanData__ in the project folder. You can put scan files in it.
 
-## 💻 Misc
+## ✨ Misc
 
 If you want, you can use [VS Code](https://code.visualstudio.com/) as developing environment. 
 You will need these extensions for it:
