@@ -24,6 +24,6 @@ You will need these extensions for it:
 
 When the Docker container is running go to the VS Code Command Palette by pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>.
 
-Select __Dev Containers: Attach to Running Container...__ and choose __AIRTuB1-internship__.
+Select __Dev Containers: Attach to Running Container...__ and choose __/internship-jupyter-lab-1__.
 
 Enjoy!
